@@ -55,10 +55,10 @@ My projects span across backend web development, Linux systems programming, and 
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 
 ---
-
+<!-- 
 ## 🚀 Featured Projects
 
-| Project | Stack | What it does |
+| Project | Tech Stack | What it does |
 |---|---|---|
 | [Generalised Data Structure Library](https://github.com/Pallaviisable/Genralised-Data-Structure-Library) | C++ | Generic template library — Linked Lists, BST, Stack, Queue, Sorting. Built from scratch without STL. |
 | [Process Memory Inspector](https://github.com/Pallaviisable/Process-Memory-Inspector) | C++, Linux | Reads `/proc` filesystem to map live process memory — heap, stack, text, data segments in real time. |
@@ -68,7 +68,7 @@ My projects span across backend web development, Linux systems programming, and 
 | [Automated Data Shield](https://github.com/Pallaviisable/Automated-Data-Shield) | Python | Incremental backup system using MD5 hash comparison and ZIP archiving. |
 | [File Packer & Unpacker](https://github.com/Pallaviisable/File-Packer-Unpacker) | Java | File archiving utility using Java I/O streams and custom packing logic. |
 
----
+--- -->
 
 
 ## 📜 Certifications

@@ -54,16 +54,16 @@
 ### 🚀 Featured Projects
 
 **[DevOverflow](YOUR_REPO_URL)**  
-Stack Overflow-inspired developer Q&A platform built using Next.js, TypeScript, Tailwind CSS, and Clerk.
+Stack Overflow-inspired developer Q&A platform built with Next.js, TypeScript, Tailwind CSS, and Clerk.
 
-**[ParkEngine](YOUR_REPO_URL)**  
-Java-based Parking Lot Management System designed using OOP, LLD, SOLID principles, and Design Patterns.
+**[ParkEngine](https://github.com/SanketHajare44/park-engine)**  
+Java-based Parking Lot Management System designed using OOP, Low-Level Design, SOLID principles, and Design Patterns.
 
-**[Intelligent Document QA](YOUR_REPO_URL)**  
-RAG-based document question-answering system using Python, FAISS, Sentence Transformers, Ollama, and LLMs.
+**[File Packer Unpacker](https://github.com/SanketHajare44/File_Packer_Unpacker)**  
+Full-stack file archiving application built with Java, Spring Boot, REST APIs, React, and JUnit for packing and unpacking files.
 
-**[PullRequest](YOUR_REPO_URL)**  
-Developer networking platform built using React, Node.js, Express.js, MongoDB, and Socket.IO.
+**[PullRequest](https://github.com/SanketHajare44/pullRequest)**  
+Developer networking platform built with React, Node.js, Express.js, MongoDB, and Socket.IO for connecting and collaborating with developers.
 
 ---
 ### 📫 How to Reach Me

@@ -1,51 +1,81 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Sanket Hajare" />
 </p>
 
-> ## Hi, I'm Sanket Hajare.
->
-> I'm a Computer Engineering graduate and aspiring Software Engineer with a
-> strong interest in backend development, system design, AI/ML, Large Language
-> Models (LLMs), and Retrieval-Augmented Generation (RAG).
->
-> `Software Engineer | AI/ML & GenAI` `PUNE, INDIA`
+<!-- Introduction -->
+
+### 👋 Hello, I'm Sanket Hajare
+
+🎓 Computer Engineering graduate and aspiring **Software Engineer**.
+
+💻 Interested in **Backend Development, System Design, AI/ML, LLMs, and RAG**.
+
+🚀 Building projects using **Java, Spring Boot, React, Node.js, and Python**.
+
+🌱 Currently strengthening my skills in **DSA, System Design, Full-Stack Development, and Generative AI**.
+
+📍 Pune, India
 
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, C++, C, Python, JavaScript
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
 
-**Backend:** Spring Boot, Node.js, Express.js, REST APIs
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 
-**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)
 
-**Databases:** MySQL, PostgreSQL, MongoDB
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat)&nbsp;
+![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat)&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-05122A?style=flat)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 
-**AI/ML:** Machine Learning, LLMs, RAG, TensorFlow, OpenCV
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 
-**Tools:** Git, GitHub, Linux, VS Code, IntelliJ IDEA
 
 ### 🚀 Featured Projects
 
-- **[DevOverflow](YOUR_REPO_URL)** — Stack Overflow-inspired developer Q&A platform using Next.js, TypeScript, and Tailwind CSS.
+**[DevOverflow](YOUR_REPO_URL)**  
+Stack Overflow-inspired developer Q&A platform built using Next.js, TypeScript, Tailwind CSS, and Clerk.
 
-- **[ParkEngine](YOUR_REPO_URL)** — Java-based Parking Lot Management System designed using OOP, LLD, SOLID principles, and Design Patterns.
+**[ParkEngine](YOUR_REPO_URL)**  
+Java-based Parking Lot Management System designed using OOP, LLD, SOLID principles, and Design Patterns.
 
-- **[Intelligent Document QA](YOUR_REPO_URL)** — RAG-based document question-answering system using Python, FAISS, Sentence Transformers, Ollama, and LLMs.
+**[Intelligent Document QA](YOUR_REPO_URL)**  
+RAG-based document question-answering system using Python, FAISS, Sentence Transformers, Ollama, and LLMs.
 
-- **[PullRequest](YOUR_REPO_URL)** — Developer networking platform built with React, Node.js, Express.js, MongoDB, and Socket.IO.
+**[PullRequest](YOUR_REPO_URL)**  
+Developer networking platform built using React, Node.js, Express.js, MongoDB, and Socket.IO.
 
-### 📫 Connect With Me
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
+### 📫 How to Reach Me
+
+<a href="YOUR_LINKEDIN_URL">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=EA4335"/>
+</a>

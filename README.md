@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sanket Hajare" />
+  <img src="./assets/banner.svg" width="100%" alt="Sanket Hajare" />
 </p>
 
 ## 👋 Hi, I'm Sanket Hajare

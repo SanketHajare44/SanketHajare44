@@ -53,7 +53,7 @@
 
 ### 🚀 Featured Projects
 
-**[DevOverflow](YOUR_REPO_URL)**  
+**[DevOverflow](https://github.com/SanketHajare44/devoverflow)**  
 Stack Overflow-inspired developer Q&A platform built with Next.js, TypeScript, Tailwind CSS, and Clerk.
 
 **[ParkEngine](https://github.com/SanketHajare44/park-engine)**  

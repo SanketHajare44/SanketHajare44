@@ -4,7 +4,7 @@
   <img src="./assets/header.svg" width="100%" alt="Sanket Hajare" />
 </p>
 
-<!-- Introduction -->
+---
 
 ### 👋 Hello, I'm Sanket Hajare
 
@@ -18,6 +18,7 @@
 
 📍 Pune, India
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -48,6 +49,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 
+---
 
 ### 🚀 Featured Projects
 
@@ -63,19 +65,19 @@ RAG-based document question-answering system using Python, FAISS, Sentence Trans
 **[PullRequest](YOUR_REPO_URL)**  
 Developer networking platform built using React, Node.js, Express.js, MongoDB, and Socket.IO.
 
-
+---
 ### 📫 How to Reach Me
 
 <a href="YOUR_LINKEDIN_URL">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-05122A?style=flat&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>

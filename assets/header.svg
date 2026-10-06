@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
   <style>
-    .name { animation: nameIn 27s ease-out infinite; }
-    .underline { animation: underlineDraw 27s ease-out infinite; transform-origin: left center; }
-    .meta { animation: fadeUp 27s ease-out infinite; animation-delay: 0.3s; }
-    .corner { animation: cornerSlide 27s ease-out infinite; }
+    .name { animation: nameIn 7s ease-out infinite; }
+    .underline { animation: underlineDraw 7s ease-out infinite; transform-origin: left center; }
+    .meta { animation: fadeUp 7s ease-out infinite; animation-delay: 0.3s; }
+    .corner { animation: cornerSlide 7s ease-out infinite; }
 
     @keyframes nameIn {
       0%, 4% { opacity: 0; transform: translateY(8px); }
@@ -47,10 +47,10 @@
   </g>
 
   <!-- Name -->
-  <text class="name" x="400" y="138" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="56" font-weight="700" letter-spacing="-1.5">Sanket Sadashiv Hajare</text>
+  <text class="name" x="400" y="138" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="56" font-weight="700" letter-spacing="-1.5">Sanket Hajare</text>
 
   <!-- Accent underline -->
-  <rect class="underline" x="92" y="164" width="616" height="2" fill="#dc2626" rx="1"/>
+  <rect class="underline" x="218" y="164" width="364" height="2" fill="#dc2626" rx="1"/>
 
   <!-- Meta line -->
   <text class="meta" x="400" y="200" text-anchor="middle" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">SOFTWARE ENGINEER | AI/ML &amp; GENAI   ·   PUNE INDIA</text>

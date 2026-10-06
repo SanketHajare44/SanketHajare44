@@ -3,9 +3,14 @@
   <img src="./assets/header.svg" width="100%" alt="Sanket Hajare" />
 </p>
 
-## 👋 Hi, I'm Sanket Hajare
+> ## Hi, I'm Sanket Hajare.
+>
+> I'm a Computer Engineering graduate and aspiring Software Engineer with a
+> strong interest in backend development, system design, AI/ML, Large Language
+> Models (LLMs), and Retrieval-Augmented Generation (RAG).
+>
+> `Software Engineer | AI/ML & GenAI` `PUNE, INDIA`
 
-Computer Engineering graduate and aspiring **Software Engineer** with an interest in **Backend Development, System Design, AI/ML, LLMs, and RAG**.
 
 ### 🛠️ Tech Stack
 

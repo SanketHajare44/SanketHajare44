@@ -68,16 +68,16 @@ Developer networking platform built with React, Node.js, Express.js, MongoDB, an
 ---
 ### 📫 How to Reach Me
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sankethajare/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="portfolio-sanket-0a17.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sankethajare90@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
